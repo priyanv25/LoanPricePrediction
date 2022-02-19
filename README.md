@@ -1,7 +1,8 @@
 # Loan Price Prediction
 
+
 THIS PROJECT USES FOUR CLASSIFICATION ALGORITHMS ON LOAN PRICE DATASET.
 THE GOAL IS TO FIND THE BEST CLASSIFIER FOR PREDICTION.
-THIS PROJECT WAS DONE AS A PART OF COURSERA-MACHINE LEARNING WITH PYTHON COURSE.
 
-* * This Project was developed as a part of coursera - IBM learning modules * *
+
+*This Project was developed as a part of coursera - IBM learning modules* 
